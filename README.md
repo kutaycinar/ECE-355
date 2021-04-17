@@ -12,7 +12,7 @@ An overall system diagram is shown below taken from the [lab manual](https://www
 
 ## Results
 
-Below are the results obtained by executing this program with the 355 board.
+Below are the results obtained by running this program on the ECE355 board.
 
 | <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_0.png"> | <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_2045.png"> | <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_5000.png"> |
 | --- | --- | --- |
