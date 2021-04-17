@@ -19,6 +19,6 @@ Below are the results obtained by executing this program with the 355 board.
 
 ## Report
 
-Completed lab report I've written detailing the system in-depth and my proposed design solution is available [here](./docs/ECE%20355%20-%20Report.pdf).
+Completed lab report I've written detailing the system and my proposed design solution in-depth is available [here](./docs/ECE%20355%20-%20Report.pdf).
 
 My code is available under [./src/main.c](./src/main.c)
