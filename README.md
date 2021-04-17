@@ -14,7 +14,7 @@ An overall system diagram is shown below taken from the [lab manual](https://www
 
 Below are the results obtained by testing and running this program.
 
-<img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_0.png" width="33%"> <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_2045.png" width="33%"> <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_5000.png" width="33%">
+<img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_0.png" width="30%"> <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_2045.png" width="30%"> <img src="https://raw.githubusercontent.com/kutaycinar/ECE-355/main/docs/result_5000.png" width="30%">
 
 ## Report
 
